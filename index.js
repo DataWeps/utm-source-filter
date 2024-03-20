@@ -1,4 +1,4 @@
-const { getHistoricalTableName } = require('@optimics/dataform-tables')
+const { getHistoricalTableName } = require('@dataweps/dataform-tables')
 
 /** Return intraday table specific for utm source customers as a string
  * @param config.ga4Dataset The Fully Qualified dataset name prefixed with GCP project name

@@ -1,4 +1,4 @@
-# `@optimics/dataform-utm-source-filter`
+# `@dataweps/dataform-utm-source-filter`
 
 ![npm](https://img.shields.io/npm/dm/%40optimics/dataform-utm-source-filter)
 ![npm (scoped)](https://img.shields.io/npm/v/%40optimics/dataform-utm-source-filter)
@@ -14,7 +14,7 @@ name of the dataset will be `partner_export_daily_ga4`.
 
 ## Before you begin
 
-Install the package `@optimics/dataform-utm-source-filter` to your dataform.
+Install the package `@dataweps/dataform-utm-source-filter` to your dataform.
 Refer to our [dataform workflow](../README.md), if you need help. The current
 package version is ![npm
 (scoped)](https://img.shields.io/npm/v/%40optimics/dataform-utm-source-filter)
@@ -37,7 +37,7 @@ ${intraday.query}
 4. Insert the following code into the `.js` file:
 
 ```javascript
-const { createIntradayTable } = require('@optimics/dataform-utm-source-filter')
+const { createIntradayTable } = require('@dataweps/dataform-utm-source-filter')
 const query = createIntradayTable({
   ga4Dataset: '{YOUR GOOGLE CLOUD PROJECT ID}.{YOUR DATASET ID}',
   utmSource: '{YOUR UTM SOURCE}'
