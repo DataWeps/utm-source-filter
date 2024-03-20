@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [0.7.2](https://github.com/optimics/analytics/compare/v0.7.1...v0.7.2) (2023-10-10)
 
-**Note:** Version bump only for package @dataweps/dataform-utm-source-filter
+**Note:** Version bump only for package @heureka/dataform-utm-source-filter
 
 
 
@@ -13,7 +13,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## [0.7.1](https://github.com/optimics/analytics/compare/v0.7.0...v0.7.1) (2023-10-09)
 
-**Note:** Version bump only for package @dataweps/dataform-utm-source-filter
+**Note:** Version bump only for package @heureka/dataform-utm-source-filter
 
 
 
@@ -32,7 +32,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.6.0](https://github.com/optimics/analytics/compare/v0.5.0...v0.6.0) (2023-08-21)
 
-**Note:** Version bump only for package @dataweps/dataform-utm-source-filter
+**Note:** Version bump only for package @heureka/dataform-utm-source-filter
 
 
 
@@ -40,7 +40,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.5.0](https://github.com/optimics/analytics/compare/v0.4.1...v0.5.0) (2023-08-17)
 
-**Note:** Version bump only for package @dataweps/dataform-utm-source-filter
+**Note:** Version bump only for package @heureka/dataform-utm-source-filter
 
 
 
@@ -48,7 +48,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.4.0](https://github.com/optimics/analytics/compare/v0.3.1...v0.4.0) (2023-08-09)
 
-**Note:** Version bump only for package @dataweps/dataform-utm-source-filter
+**Note:** Version bump only for package @heureka/dataform-utm-source-filter
 
 
 
@@ -56,7 +56,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [0.3.0](https://github.com/optimics/analytics/compare/v0.2.4...v0.3.0) (2023-08-01)
 
-**Note:** Version bump only for package @dataweps/dataform-utm-source-filter
+**Note:** Version bump only for package @heureka/dataform-utm-source-filter
 
 
 

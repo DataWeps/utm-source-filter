@@ -1,5 +1,5 @@
 {
-  "name": "@dataweps/dataform-utm-source-filter",
+  "name": "@heureka/dataform-utm-source-filter",
   "version": "0.7.2",
   "files": [
     "*.js"
@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@dataform/core": "2.4.2",
-    "@dataweps/dataform-tables": "file:../tables"
+    "@heureka/dataform-tables": "0.7.2"
   },
   "homepage": "https://github.com/DataWeps/utm-source-filter",
   "repository": {
